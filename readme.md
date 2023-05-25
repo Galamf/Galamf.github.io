@@ -1,6 +1,5 @@
-## (Nombre del proyecto)
-
-Mi coneji-aventura 
+## (MI CONEJI-AVENTURA)
+Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la Facultad de bellas Artes de la Universidad de Granada.
 
 
 
