@@ -32,8 +32,11 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Instagram
+- Github:galamf.github.io
+- Instagram: 
+             gala_mofe
+             arthea_fusion
+           
 
 
 # 2. Memoria del proyecto 
@@ -61,8 +64,24 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
+La metodología de desarrollo de productos multimedia que seguí fue;
+1- Definición y planificación:
+En esta etapa establecí los objetivos del videojuego y su concepto general, además de definir el público objetivo.
+2- Diseño visual y de interfaz:
+Establecí la estética del juego creando los elementos visuales necesarios. En esta etapa empecé a idear la interfaz de usuario, incluyendo el Teaser, el menú y las pantallas de los juegos, además de empezar a definir los controles de sonido y los botones de navegación, aunque de una manera muy general y primaria.
+3- Desarrollo del Teaser:
+En esta etapa, siguiendo los tiempos marcados para las entregas por prácticas del proyecto, empecé a trabajar cobre la introducción atractiva, debía "vender" el jugador y presentar su temática. Usé animaciones con líneas de tiempo, efectos visuales y sonidos para captar la atención del usuario.
+4- Desarrollo del menú:
+Coetáneamente con el Teaser, también era el momento de implementar el menú principal del juego con opciones para los créditos, la galería y el índice de juegos, además de la implementación de controles de sonido en todas las escenas. Fue necesario asegura el correcto funcionamiento de los botones y enlaces, muchas veces debido a la necesidad de enlazar diversas películas para generar un único documento útil. Sobra decir que donde de cada opción en el menú debía ser diseñadas y programadas todas las pantallas que de él formaban parte; todas las fotografías de la galería, los enlaces y videos en el índice de juegos, la redacción de los créditos, colocar en cada escena botones de retroceso que llevaban nuevamente al menú, música y sonido en cada escena y botón, etc.
+Desarrollo del juego de formar parejas de cartas:
+Se programa la lógica del juego para que el jugador pueda seleccionar y emparejar cartas. Se implementa la lógica de puntuación y la finalización del juego. Se garantiza un diseño visual atractivo y una respuesta adecuada a las interacciones del jugador.
+5- Desarrollo del juego de formar parejas de cartas:
+En esta etapa debía programar la lógica del juego para que el jugador pudiera seleccionar y emparejar cartas. Implementé la lógica de puntuación y la finalización del juego. Garantice un diseño visual atractivo y una respuesta adecuada a las interacciones del jugador.
+6- Desarrollo del juego de preguntas:
+Creé un conjunto de preguntas y respuestas para un juego con estética cuestionario. Nuevamente, programé la lógica del juego para presentar las preguntas al jugador y evaluar sus respuestas. Diseñé el sistema de puntuación y respuesta a las victorias o derrotas.
+Ambos juegos contenían escenas introductorias con un videotutorial de uso y dos escenas complementarias, una para cuando perdías, que te daba la opción de repetir, y otra para cuando ganabas, que te llevaba al siguiente juego. Evidentemente, fue necesario asegura el correcto funcionamiento de los botones y enlaces muchas veces.
+7- Integración y pruebas:
+En esta etapa, la final, prácticamente, se debían integrar todas las partes del juego en un flujo de experiencia de usuario coherente. Realice pruebas exhaustivas para identificar y corregir errores o realizar mejoras necesarias. Gracias a mis compañeros de clase, obtuve el feedback necesario para realizar ajustes finales.
 
 
 ### Etapa 1: Ideación de proyecto
