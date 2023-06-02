@@ -103,9 +103,12 @@ Para el segundo juego creé un conjunto de preguntas y respuestas para un juego 
 Ambos juegos contenían escenas introductorias con un videotutorial de uso y dos escenas complementarias, una para cuando perdías, que te daba la opción 
 
 - Video
+
+
 Los vídeos que creé fueron videotutorial de uso que coloqué como escena introductoria en cada "película" de juego. Fueron videos originales míos que creé a base de Photoshop, montaje en Adobe premiere y capturas de pantalla. Estos videos también los incorporé en el índice de juegos que se encontraba en el menú, que tenía el objetivo de llevar a los usuarios a los juegos concretos que quisieran jugar. La colocación de los videos allí era estratégica para que los espectadores pudieran saber a qué tipo de juego se dirigían. 
 
 - Instrucciones y ayuda al usuario 
+
 
 La mecánica del juego no era muy compleja, así que, salvo algunos botones parpadeantes que señalaban la necesidad de apretarlos para continuar, y los videotutoriales, había poca ayuda a la navegación. La señalética que empleé en los botones (con significado universal) hacían el juego y su navegación mucho más entendible. Esto lo hice, ya que el juego estaba orientado a niños, que suelen ser muy visuales y se los educa desde muy pequeños en el significado de las señales así que era la mejor manera de que todos lo entendieran de un modo simple. 
 
@@ -113,25 +116,25 @@ La mecánica del juego no era muy compleja, así que, salvo algunos botones parp
 - Menús y elementos de navegación (botones)
 Los botones del juego son muy sencillos e intuitivos. Podemos encontrar muchos tipos de botones, estos son algunos:
 
-- Reproducción de sólido; se encuentra en casi cada escena y sirve para reproducir la música de fondo (Todos los botones tienen su sonido específico también)
+-Reproducción de sólido; se encuentra en casi cada escena y sirve para reproducir la música de fondo (Todos los botones tienen su sonido específico también)
 
-- Detener sonido; se encuentra en casi cada escena y sirve para detener la música de fondo.
+-Detener sonido; se encuentra en casi cada escena y sirve para detener la música de fondo.
 
-- Botón de menú: Lleva al jugador de regreso al menú principal del juego, donde se pueden encontrar otras opciones
+-Botón de menú: Lleva al jugador de regreso al menú principal del juego, donde se pueden encontrar otras opciones
 
-- Avance y retroceso; Dos botones que se encuentran en la introducción del menú y en el Teaser, botones que sirven para adelantar la introducción, hasta llegar a las zonas decisivas del juego o para retroceder y disfrutar de todo el conjunto.
+-Avance y retroceso; Dos botones que se encuentran en la introducción del menú y en el Teaser, botones que sirven para adelantar la introducción, hasta llegar a las zonas decisivas del juego o para retroceder y disfrutar de todo el conjunto.
 
-- Barra de volumen; se encuentra en zonas estratégicas donde el volumen de la música pueda ser irritante, su función es subir o bajar el volumen de la música sin necesidad de pararla.
+-Barra de volumen; se encuentra en zonas estratégicas donde el volumen de la música pueda ser irritante, su función es subir o bajar el volumen de la música sin necesidad de pararla.
 
-- Botones de galería, créditos e índice de juegos; Son botones que llevan a la galería, los créditos y el índice de juegos respectivamente.
+-Botones de galería, créditos e índice de juegos; Son botones que llevan a la galería, los créditos y el índice de juegos respectivamente.
 
-- Botón de inicio: Permite al jugador comenzar o reiniciar el juego desde el principio.
+-Botón de inicio: Permite al jugador comenzar o reiniciar el juego desde el principio.
 
-- Botón de reintentar; Dos botones que se encuentran en las escenas complementarias de los juegos al perder. Son dos escenas que saltan cuando pierdes en los juegos y allí se encuentran estos botones, te dan la opción de reintentar.
+-Botón de reintentar; Dos botones que se encuentran en las escenas complementarias de los juegos al perder. Son dos escenas que saltan cuando pierdes en los juegos y allí se encuentran estos botones, te dan la opción de reintentar.
 
 -Botón de siguiente: Permite al jugador avanzar a la siguiente etapa, nivel o pantalla del juego.
 
-- Etc, etc, etc.
+-Etc, etc, etc.
 
 
 
