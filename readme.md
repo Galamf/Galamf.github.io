@@ -53,8 +53,9 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 ### 2.2. Esquema de navegación 
 
 
+![Sin título-1](https://github.com/Galamf/Galamf.github.io/assets/134587946/0ddeb2b1-0769-4074-bbef-a993f6cb95ce)
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
