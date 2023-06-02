@@ -182,9 +182,9 @@ Sinceramente, el proyecto me ha parecido maravilloso y desesperante a partes igu
 
 * Musica:
 
-- cc patrickdearteaga.com https://patrickdearteaga.com/es/musica-libre-derechos-gratis/
-- Música sin Copyright extraída de la biblioteca de Youtube.
-- Sonidos originales grabados de naturaleza en vivo.
+-cc patrickdearteaga.com https://patrickdearteaga.com/es/musica-libre-derechos-gratis/
+-Música sin Copyright extraída de la biblioteca de Youtube.
+-Sonidos originales grabados de naturaleza en vivo.
 
 * Imágenes: Créditos a Schinako Moriyama
 * Tipografía: Hello_valentica y Arial 
