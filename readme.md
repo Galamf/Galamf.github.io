@@ -35,8 +35,15 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:galamf.github.io
+- Github:
+
+
+https://galamf.github.io/
+https://github.com/Galamf/Galamf.github.io
+
 - Instagram: 
+
+
              gala_mofe
              arthea_fusion
            
@@ -172,14 +179,21 @@ Sinceramente, el proyecto me ha parecido maravilloso y desesperante a partes igu
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:
+* Imágenes: Créditos a Schinako Moriyama
+* Tipografía: Hello_valentica y Arial 
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe Photoshop CC 2019
+- Adobe Illustrator 2022
+- Adobe Premiere Pro 2019
+- VEGAS Pro 16.0
+- Pinterest
+- Youtube
+- Audacity
+- Procreate
 
 
 
