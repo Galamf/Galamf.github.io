@@ -196,8 +196,9 @@ Sinceramente, el proyecto me ha parecido maravilloso y desesperante a partes igu
 - Procreate
 
 
+![88x31](https://github.com/Galamf/Galamf.github.io/assets/134587946/1c548f88-de1c-4eea-95d2-d59b1bc383f0)
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 
 https://creativecommons.org/licenses/?lang=es
 
