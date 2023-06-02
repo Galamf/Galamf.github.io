@@ -23,13 +23,13 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 
 **Resolución:** 600x600px responsivo/o tamaño fijo 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**    Google Chrome 
 
-**Tamaño proyecto:**  
+**Tamaño proyecto:**  102 MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 25/05/2023
+**Fecha** : 02/06/2023
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -37,7 +37,8 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![TEASER  - copia](https://github.com/Galamf/Galamf.github.io/assets/134587946/a6489c51-c6e2-431c-afd3-7dd4b9b5f0fd)
+
 
 # 2. Memoria del proyecto 
 
