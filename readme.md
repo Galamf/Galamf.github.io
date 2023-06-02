@@ -125,6 +125,8 @@ La mecánica del juego no era muy compleja, así que, salvo algunos botones parp
 
 
 - Menús y elementos de navegación (botones)
+
+
 Los botones del juego son muy sencillos e intuitivos. Podemos encontrar muchos tipos de botones, estos son algunos:
 
 -Reproducción de sólido; se encuentra en casi cada escena y sirve para reproducir la música de fondo (Todos los botones tienen su sonido específico también)
