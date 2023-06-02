@@ -138,9 +138,10 @@ Los botones del juego son muy sencillos e intuitivos. Podemos encontrar muchos t
 
 
 
+- Sonido: 
 
-- etc.
 
+En este juego encontramos una serie de sonidos esenciales: La música del Teaser, el sonido del Menú que crea toda una atmósfera, la música de los niveles y la música de galería, créditos e índice de juegos (que son diferentes entre ellos). También encontramos otros sonidos al pulsar botones, acertar preguntas, perder preguntas... Colocar el sonido del videojuego no fue complicado, pero fue muy laborioso debido a la cantidad de botones que tenía, y la cantidad de sonidos que debía distinguir y referenciar adecuadamente.
 
 
 ### Etapa 3: Problemas identificados
