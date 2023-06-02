@@ -18,6 +18,9 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 **Estilo/género:**  Juego de aventura y superación 
 
 **Logotipo** : 
+
+
+
 ![TEASER](https://github.com/Galamf/Galamf.github.io/assets/134587946/14762507-7672-45a3-8f80-32032487600b)
 
 **Resolución:** 600x600px responsivo/o tamaño fijo 
