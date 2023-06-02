@@ -17,9 +17,7 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 
 **Estilo/género:**  Juego de aventura y superación 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** :  ![TEASER](https://github.com/Galamf/Galamf.github.io/assets/134587946/14762507-7672-45a3-8f80-32032487600b)
 
 **Resolución:** 600x600px responsivo/o tamaño fijo 
 
@@ -35,9 +33,6 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 
 - Github:
 - Instagram
-
-
-![TEASER  - copia](https://github.com/Galamf/Galamf.github.io/assets/134587946/a6489c51-c6e2-431c-afd3-7dd4b9b5f0fd)
 
 
 # 2. Memoria del proyecto 
