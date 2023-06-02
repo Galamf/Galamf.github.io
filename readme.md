@@ -146,15 +146,16 @@ En este juego encontramos una serie de sonidos esenciales: La música del Teaser
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+En lo que se refiere a la creación de videojuego en sí, encontré multitud de dificultades a medida que iba desarrollando específicamente el juego, por ejemplo, los códigos de script se volvieron cada vez más complejos y, a medida que iba creciendo la parte interactiva del juego, era más fácil era dañar otros comandos. Era la primera vez que usaba el lenguaje de programación, así que con mucha ayuda del profesor en el primer juego, conseguí cogerle el truco y ser muchísimo más resolutiva con problemas espontáneos que, a principio de curso, no veía como solucionar, y al final salía como algo natural. Los botones también fueron un tema aparte. Con más de 30 botones y sonido en todos y cada uno de ellos, los errores de sonido y funcionamiento estaban a la orden del día. Aunque con muchísima paciencia y excesivas horas sentada delante de la pantalla, se pudieron solucionar aparentemente todos los problemas.
+
+En lo que se refiere al juego terminado, en el aspecto funcional y estético funcionar funciona todo. El tema de la reproducción de sonido es algo a tener en cuenta, el hecho de que el sonido no se reproduzca solo, al principio de todo, por temas de seguridad, creo que afea mucho el trabajo tan pulido que hemos tenido que hacer y es frustrante ver como no funciona aunque tú lo hayas puesto correctamente, pero poca cosa se puede hacer al respecto.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
-
+Sinceramente, el proyecto me ha parecido maravilloso y desesperante a partes iguales, jamás había tenido sentimientos tan encontrados con una asignatura. En el juego “terminado” hay pocos errores que corregir, alguno hay, pero no es notorio, aunque evidentemente hay muchas cosas que implementar para darle un correcto cierre al juego, porque debido al tiempo disponible que tuvimos para hacerlo, no me dio tiempo a cerrarlo correctamente, con lo que queda demasiado abierto. En un futuro, entonces, lo que me gustaría mejorar es la velocidad de trabajo, si hubiera sabido trabajar más rápido en la realización del menú y el primer juego muy probablemente hubiera podido concluir el proyecto, me una forma más concreta y que no quedara tan en el aire. Además, me gustaría aumentar mis conocimientos de lenguaje de programación, esto, mi proceso de trabajo y ser capaz de hacer más cosas en menos tiempo y con más autonomía. En general estoy extremadamente satisfecha con el resultado final, he pasado de no saber usar más que las herramientas básicas de edición de imagen a ser capaz de programar (de forma básica, pero por algún sitio se empieza) juegos y escenas. Crecer en conocimientos es todo lo que pido en la carrera y esto desde luego lo ha conseguido.
 
 
 
