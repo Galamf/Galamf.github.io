@@ -9,7 +9,7 @@ Esto es un proyecto de la asignatura de Creación Multimedia Interactiva de la F
 
 **Titulo** : Mi coneji-Aventura
 
-**Web:**   (url github.io)
+**Web:**  https://galamf.github.io/
 
 **Autor:**  Gala Moscoso Fernández
 
