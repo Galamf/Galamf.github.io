@@ -53,7 +53,8 @@ https://github.com/Galamf/Galamf.github.io
 
 ### 2.1 Storyboard: 
 
-![IMG20230602234538](https://github.com/Galamf/Galamf.github.io/assets/134587946/778381b0-48e4-4f30-a83e-688dc0cf2fde)
+![Uploading Storyboard.jpg…]()
+
 
 En mi proyecto se deben superar una serie de juegos para ayudar a un conejo perdido a llegar a casa. Hay 2 juegos, el objetivo del primer juego es formar 6 parejas dentro del límite de tiempo establecido, el segundo juego trata de acertar todas las preguntas de un Quizz. Cada juego tiene unas escenas que permite repetir y avanzar según ganes o pierdas. El juego no tiene un final cerrado, por lo que, una vez termina en segundo juego, la opción que tienes es volver al menú y disfrutar del resto de juego (galería, créditos, índice de juegos…).
 
