@@ -163,6 +163,35 @@ En lo que se refiere a la creación de videojuego en sí, encontré multitud de 
 
 En lo que se refiere al juego terminado, en el aspecto funcional y estético funcionar funciona todo. El tema de la reproducción de sonido es algo a tener en cuenta, el hecho de que el sonido no se reproduzca solo, al principio de todo, por temas de seguridad, creo que afea mucho el trabajo tan pulido que hemos tenido que hacer y es frustrante ver como no funciona aunque tú lo hayas puesto correctamente, pero poca cosa se puede hacer al respecto.
 
+### Etapa 4: Mejora del proyecto 
+En mi proyecto se deben superar una serie de juegos para ayudar a un conejo perdido a llegar a casa. Una de las mejoras principales que he hecho ha sido la creación de un minijuego más. 
+
+
+
+1r minijuego; El objetivo es formar 6 parejas dentro del límite de tiempo establecido. Si se termina el tiempo debes volver a repetirlo. 
+
+
+
+
+2º minijuego; El objetivo es sortear unas abejas con los cursores del teclado o los botones del mismo juego (está pensado para que se pueda jugar tanto en el el móvil como en el ordenador ) Si tocas una abeja debes volver a repetirlo. 
+
+
+
+
+3r minijuego; El objetivo es acertar todas las preguntas de un quiz. Si fallas más de tres veces debes volver a repetirlo.  
+
+
+
+
+Cada juego, como en la versión anterior, contiene unas escenas que permiten repetir el juego (si no logras superarlo), y otra escena que permite avanzar al siguiente juego. 
+La diferencia/ mejora principal que he hecho ha sido crear una historia conclusiva para el juego. Ahora avanzar superando los diferentes juegos y ha historia avanza a medida que los superas, es decir, que el conejo se acerca a casa en la medida en que superas los juegos. Los escenarios de los juegos están al compás de las horas del día, es decir que empieza el juego “por la mañana” y termina “por la noche”  
+Se podría decir entonces que ahora el juego tiene un final conclusivo, un final cerrado (el conejo se pierde por la mañana y, al final, regresa a casa por la noche).
+Cada juego tiene una escena introductoria donde se explica la historia del regreso a casa del conejo, en esa situación, un cambio esencial es que, en lugar de tener que pasar obligatoriamente por las escenas de video tutoriales, ahora son escenas opcionales, y se accede a ellas mediante un botón que se encuentra en cada escena.  
+En la última escena de todas, la que nos indica que ya hemos terminado el juego, podemos volver al menú principal para reiniciar el juego o para disfrutar del resto del juego (galería, créditos, índice de juegos…).
+
+Finalmente, otra mejora que le he hecho ha sido en cuestiones de interfaz. He igualado la colocación de los botones de sonido así como los botones que información (que llevan a escenas de video tutorial para explicar que se debe hacer en cada juego) y los que llevan al menú para que, en cada escena, estén iguales. También he igualado los volúmenes de los audios y el sonido y he ideado el juego para que funcione tanto en google Chrome como en teléfonos. 
+
+En resumen: Para el proyecto he mejorado cuestiones relacionadas con la interfaz del juego, y he seguido la dinámica de una historia conclusiva y creando más escenas para evidenciar el paso y la conclusión de la historia del juego, además he adaptado algunos juegos para que fueran funcionales también en el teléfono móvil. 
 
 
 # 4. Conclusiones 
