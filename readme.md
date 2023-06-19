@@ -63,8 +63,9 @@ En mi proyecto se deben superar una serie de juegos para ayudar a un conejo perd
 
 ### 2.2. Esquema de navegación 
 
+![MAVEGACIÓN](https://github.com/Galamf/Galamf.github.io/assets/134587946/043017b2-e2c5-44e0-b3f0-5c4ed0ecdcbe)
 
-![Sin título-1](https://github.com/Galamf/Galamf.github.io/assets/134587946/0ddeb2b1-0769-4074-bbef-a993f6cb95ce)
+
 
 
 
